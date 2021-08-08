@@ -36,5 +36,4 @@ User
 Username: some@gmail.com
 Password: some
 
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** The Divine Academy****
+
